@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>aizyuval blog</title>
+        <title>title</title>
         <link href="static/css/styles.css" rel="stylesheet">
         <link href="static/css/syntax.css" rel="stylesheet">
     </head>
@@ -20,10 +20,11 @@
                 <a href="https://www.github.com/aizyuval">github</a>
             </div>
 
-                <h1>Welcome</h1>
-                <!-- <p>January 2023</p> -->
+            <h2> Archive </h2>
+            <ul>
+              <!--<li class="post-li"><a href="/">test</a></li>a-->
+            </ul>
 
-                <p> I'm Yuval from Israel. This corner is my personal thought-dump. It is intended mainly for me to clear my mind. I will be writing here on my areas of interest: space, computer systems, humans, society, internet, minimalism, or any future interests. It is not the first iteration of me trying to write, so let's see how it goes. </p>
         </div>
     </body>
 </html>

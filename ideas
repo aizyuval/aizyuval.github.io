@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>title</title>
+        <link href="static/css/styles.css" rel="stylesheet">
+        <link href="static/css/syntax.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="footer">
+              <a href="archive">archive</a> <!--archive of docs-->
+                &sdot;
+              <a href="index.html">about</a> <!--archive of docs-->
+                &sdot;
+              <a href="now">now</a> <!--archive of docs-->
+                &sdot;
+              <a href="ideas">ideas</a> <!--archive of docs-->
+                &sdot;
+                <a href="https://www.github.com/aizyuval">github</a>
+            </div>
+
+                <h1>Ideas</h1>
+    <p>Updated: March 2024</p>
+
+
+    <p>The following are bursts of thoughts about stuff I wish to do, but simply won't spare the time currently :)</p>
+    <p>If anything below is something you'd like to work/discuss with me, feel free at: yuvalaizenman@gmail.com </br>
+    If anything seems cool enough to steal, please do.</p>
+
+    <p>------------------------------------</p>
+        <p><strong>tracerouteV6</strong> - I would like to learn more about ipv6. Everything I've done in sockets porgramming is still behind ipv4 for the fact that I didn't want to complicate anything. Well, maybe it would be interesting to blend some orange juice to this cake</p>
+        <p><strong>a blend of thoughts</strong> -  A website that offers people to share their thoughts anonymously and delve into others anonymous thoughts with a large pool of thoughts. There shouldn't be constraints, and there shouldn't be prioritizing, solely the human experience. I find it fascinating to delve into humans. Their nature, motives, low and high points. Unfortunately, social media provide quite the opposite - a cartoon movie of humans defined by bizzare rules.</p>
+        <p><strong>ping of death</strong> - I would defenitely would like to implement this, and delve into the security of networking</p>
+        <p><strong>rovers illustration</strong> - an illustration of the solar system with focus on rovers we have sent there, also providing information about it.</p>
+        <p><strong>c code shape as starship</strong> - Write C code that run a simulation of starship landing that is composed by the c code characters themselves</p>
+        <p><strong>modern Search Engine</strong> - build a search engine that understands what the user needs, as opposed to the keywords he typed, and one that serves information based on quality rather than other motives. It amazes me that we had come some 20ish with the internet, and yet are poorly utilizing it's mighty possibilities.</p>
+        <p><strong>helpful stackoverflow user</strong> - I would like to craft a system to allow me to provide more answers on stackoverflow. Maybe it would be simply saving the questions I myself looked, and anwering them after I found the answer myself. Maybe it would require some other methods.</p>
+        <p><strong>learn latin</strong> - to understand more of history, and have the privilage to read influential texts in with their exact intents in mind, I would like to learn latin.</p>
+        <p><strong>fingerprinting</strong> - delve deeper into browsers fingerprinting and better opsec practices</p>
+        <p><strong>libreboot a thinkpad</strong> - thinkpad life seems cool. I want to try it.</p>
+        <p><strong>craft an evil maid attack</strong> - I've been interested in the possibility of someone hacking my boot process. I wan't to see how easy/hard and portable it is.</p>
+        <p><strong>abort Google, etc.</strong> - It is a bit paradoxical, but yeah, I should actually do that. I give my gratitude to google for everything, but it's time to move on.</p>
+        <p><strong>contribute to open source</strong> - It would defenitely help my skills, and it is simply right to do so.</p>
+        <p><strong>build a virtual machine</strong> - virtual machines, containers, they are amazing. I would like to see how they operate under the hood.</p>
+        <p><strong>emergency usb</strong> - format a usb to use (portable) linux as a rescue system if something breaks</p>
+        <p><strong>write about facundo cabral's life</strong> - I have had trouble finding information about this man's life that isn't in form of videos. It seems very scattered, and in anycase I would like to know him better, so why not write a page about his biography</p>
+        <p><strong>a better way to meet people</strong> - this refers mostly to young, curious people. It seems that university is the most common place to meet these people, which is weird, given how university isn't quite the living example of sparking curiosity in humans</p>
+        <p><strong>development focus restart</strong> - how come whenever I shutdown my computer, I have to open all windows back again, instead of simply returnin to the very same point? The very same neovim instance and dwm window. I would like to implement that</p>
+        <!--<p><strong>T</strong> -</p>-->
+
+        </div>
+    </body>
+</html>

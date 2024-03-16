@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>title</title>
+        <link href="static/css/styles.css" rel="stylesheet">
+        <link href="static/css/syntax.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="footer">
+              <a href="archive">archive</a> <!--archive of docs-->
+                &sdot;
+              <a href="index.html">about</a> <!--archive of docs-->
+                &sdot;
+              <a href="now">now</a> <!--archive of docs-->
+                &sdot;
+              <a href="ideas">ideas</a> <!--archive of docs-->
+                &sdot;
+                <a href="https://www.github.com/aizyuval">github</a>
+            </div>
+
+                <h1>What I'm working on</h1>
+    <p>March 2024</p>
+
+    <p>At the moment, I'm working on a search engine. This search engine is a minified search engine of the one I would like to make, for me to learn about the process.
+    It will be up in a week or so, and it focuses on delivering search for Hacker News submitted blogs.
+    </p>
+
+    <p>I'm dissatisfied with the state of affairs as regarding to search engines.Search is so essential to the internet, that it actually goes hand to hand. An internet without good search is just a pile of documents. Google represent the obsolete state, by being bloated with ads, ranking docs poorly, which leads to not delviering on the query.</p>
+
+    <p> Cool search engine list can be found at: <a href="https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes">Seirdy.one</a> </p>
+        </div>
+    </body>
+</html>
