@@ -46,7 +46,11 @@
         <p><strong>emergency usb</strong> - format a usb to use (portable) linux as a rescue system if something breaks</p>
         <p><strong>write about facundo cabral's life</strong> - I have had trouble finding information about this man's life that isn't in form of videos. It seems very scattered, and in anycase I would like to know him better, so why not write a page about his biography</p>
         <p><strong>a better way to meet people</strong> - this refers mostly to young, curious people. It seems that university is the most common place to meet these people, which is weird, given how university isn't quite the living example of sparking curiosity in humans</p>
-        <p><strong>development focus restart</strong> - how come whenever I shutdown my computer, I have to open all windows back again, instead of simply returnin to the very same point? The very same neovim instance and dwm window. I would like to implement that</p>
+        <p><strong>development focus restart</strong> - how come whenever I shutdown my computer, I have to open all windows back again, instead of simply returnin to the very same point? The very same neovim instance and dwm window. I would like to implement that. 
+
+        Turn back on, go back to state of flow instantly without comprimising security.
+        </p>
+
         <!--<p><strong>T</strong> -</p>-->
 
         </div>
